@@ -1,6 +1,6 @@
 # Hi there, I'm Massimo 👋
 
-![massimopetretich.com](https://massimopetretich.com)
+[massimopetretich.com](https://massimopetretich.com)
 
 Currently, I work at **GSK as a bioinformatician**.
 
