@@ -1,13 +1,10 @@
 # Hi there, I'm Massimo 👋
 
-![Massimo's Profile Picture](https://massimopetretich.com)
+![massimopetretich.com](https://massimopetretich.com/images/mountain.svg)
 
 Currently, I work at **GSK as a bioinformatician**.
 
 Beyond my professional role, I actively explore research areas at the intersection of **mathematics, data science, software engineering, and computer science**.
-
----
-
 
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/massimo-petretich-766050121/)
