@@ -1,4 +1,4 @@
-# Hi there, I'm Massimo 👋
+# Hi there, I'm Massimo!
 
 ![massimopetretich.com](https://massimopetretich.com)
 
