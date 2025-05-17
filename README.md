@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Massimo 👋
 
-<!--
-**Massimo-Petretich/Massimo-Petretich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Massimo's Profile Picture](https://massimopetretich.com)
 
-Here are some ideas to get you started:
+Currently, I work at **GSK as a bioinformatician**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond my professional role, I actively explore research areas at the intersection of **mathematics, data science, software engineering, and computer science**.
+
+---
+
+
+Feel free to connect with me:
+- [LinkedIn](https://www.linkedin.com/in/massimo-petretich-766050121/)
+- [GitHub](https://github.com/Massimo-Petretich)
+- [Kaggle](https://www.kaggle.com/massimopetretich1)
